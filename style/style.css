@@ -1,0 +1,67 @@
+body,div,h1,h2,h3,h4,h5,h6,p,ul,ol,li,dl,dt,dd,img,form,fieldset,input,textarea,blockquote{
+	margin:0;
+	padding:0;
+	border:0;
+	outline:none
+}
+
+html {
+	margin:0;
+	padding:0;	
+}
+	
+body
+{
+	margin:0;
+	padding:0;
+	background-image:url(../images/verticalFootballFieldBlackAndWhite.png);
+	background-repeat:no-repeat;
+	background-position:center;	
+}
+
+.container {
+	width:800px;
+	height:750px;
+	margin:auto;
+}
+
+.header {
+	width:800px;
+	height:186px;
+	margin-top:25px;
+	background:#BABABA;
+}
+
+.headerImage {
+	float:left;
+	width:221px;
+	margin-left:75px;
+	/*background:#131313;*/
+}
+
+.name {
+	float:right;
+	width:275px;
+	margin-right:75px;
+	margin-top:15px;
+}
+
+.headerTop {
+	background:#BABABA;
+	color:#131313;
+	padding:10px;
+	text-align:center;
+}
+
+.headerBottom {
+	background:#0B0B0B;
+	color:#E7E7E7;
+	padding:45px;
+	text-align:center;	
+}
+
+.main {}
+
+.footer {
+
+}
